@@ -1,5 +1,12 @@
 # Clone the repos from github by `PyGithub`
 
+## Installation
+```bash
+$ pip install -r requirements.txt
+```
+
+## Try with the code
+
 ```python
 # get access token from github website
 access_token = "4756748ebe2db17e6b56a05f******"
